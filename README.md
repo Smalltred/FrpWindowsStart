@@ -40,4 +40,4 @@ goto home
 
 
 
-####有什么bug可以提交[issues](https://github.com/Smalltred/MinecraftFrpWindowsStart/issues) 
+#### 有什么bug可以提交[issues](https://github.com/Smalltred/MinecraftFrpWindowsStart/issues) 
